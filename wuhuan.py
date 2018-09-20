@@ -1,5 +1,5 @@
 # 绘制五环
-import os 
+#import os 
 import time
 import turtle
 
